@@ -3,6 +3,7 @@
 A modern, high-performance interactive team showcase website built with HTML5, CSS3, and modern Vanilla JavaScript.
 
 ## Features ✨
+### Other Features
 
 - **Glassmorphic UI Design**: Dark/light mode theme toggle, vibrant ambient glow backdrop, and responsive CSS grid layout.
 - **Interactive Directory**: Search team members by name, role, or tech stack keywords.

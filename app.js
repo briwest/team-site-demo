@@ -19,7 +19,7 @@ const teamMembers = [
     name: "Brian West",
     role: "Lead Systems Architect",
     dept: "engineering",
-    avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    avatar: "https://cmix.louisiana.edu/sites/computing/files/styles/large/public/February%2024%2C%202021%20Brian%20West%209067_web.jpg?itok=BsF3dta_",
     bio: "Core contributor to open-source developer tooling, distributed systems, and real-time backend microservices.",
     skills: ["Go", "TypeScript", "Distributed Systems", "Docker"],
     github: "https://github.com/briwest",
